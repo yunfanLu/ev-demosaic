@@ -10,8 +10,8 @@ If you find our work useful in your research, please consider citing:
 ```
 @inproceedings{yourname2024event,
   title={Event Camera Demosaicing via Swin Transformer and Pixel-focus Loss},
-  author={Your Name and Co-authors},
-  booktitle={Proceedings of the CVPR Workshop},
+  author={Yunfan Lu, Yijie Xu, Wenzong Ma, Weiyu Guo, Hui Xiong},
+  booktitle={CVPR Workshop},
   year={2024}
 }
 ```
