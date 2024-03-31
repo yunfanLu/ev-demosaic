@@ -30,8 +30,7 @@ Other dependencies listed in requirements.txt
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourgithub/event-camera-demosaicing.git
-cd event-camera-demosaicing
+git clone https://github.com/yunfanLu/ev-demosaic.git
 pip install -r requirements.txt
 ```
 
